@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DEMO1">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="TWIST:TWIST\Christina">
+          <Created>2013-10-15T23:48:42.0010329-04:00</Created>
+          <Type>SQL</Type>
+          <Server>TWIST</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="COUNT_1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TWIST:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TWIST</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>COUNT_1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="COUNT_2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TWIST:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TWIST</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>COUNT_2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="COUNT_3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TWIST:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TWIST</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>COUNT_3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="COUNT_4.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TWIST:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TWIST</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>COUNT_4.sql</FullPath>
+        </FileNode>
+        <FileNode Name="COUNT_5.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TWIST:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TWIST</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>COUNT_5.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

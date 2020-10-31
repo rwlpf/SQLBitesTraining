@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL_Bites_Training_Lesson_6">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="192.168.2.44:CCT\rfrench">
+          <Created>2018-05-04T14:58:41.1260506+01:00</Created>
+          <Type>SQL</Type>
+          <Server>192.168.2.44</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="WIN-OPT-077\MSSQLSERVER_2016:CCT\rfrench">
+          <Created>2018-05-02T10:15:28.2516218+01:00</Created>
+          <Type>SQL</Type>
+          <Server>WIN-OPT-077\MSSQLSERVER_2016</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>AdventureWorks2012</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Create_fn_TotalSoldToDate_.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create_fn_TotalSoldToDate_.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CrossApplySpeed.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CrossApplySpeed.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Figure1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Figure1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Figure3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Figure3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Figure4.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Figure4.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Figure5.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Figure5.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Query6.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Query6.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Query7.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Query7.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Query8.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:192.168.2.44:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>192.168.2.44</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Query8.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Queryx.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Queryx.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Use_Cross_Apply.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Use_Cross_Apply.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

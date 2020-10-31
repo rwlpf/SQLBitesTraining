@@ -1,0 +1,5 @@
+ SELECT [BusinessEntityID]
+      , [LoginID]
+      , [OrganizationLevel]
+      , [MgrEntityID] 
+FROM [HumanResources].[Employee]

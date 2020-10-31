@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL_Bites_Training_Lesson_5_Part2">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="WIN-OPT-077\MSSQLSERVER_2016:CCT\rfrench">
+          <Created>2019-02-08T08:47:29.4676724+00:00</Created>
+          <Type>SQL</Type>
+          <Server>WIN-OPT-077\MSSQLSERVER_2016</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>DW_POC</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="LetsBuildQueryPart1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>LetsBuildQueryPart1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="LetsBuildQueryPart2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>LetsBuildQueryPart2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="LetsBuildQueryPart3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>LetsBuildQueryPart3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="LetsBuildQueryPart4.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>LetsBuildQueryPart4.sql</FullPath>
+        </FileNode>
+        <FileNode Name="LetsBuildQueryPart5.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>LetsBuildQueryPart5.sql</FullPath>
+        </FileNode>
+        <FileNode Name="LetsBuildQueryPart6.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>LetsBuildQueryPart6.sql</FullPath>
+        </FileNode>
+        <FileNode Name="LetsBuildQueryPart7.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>LetsBuildQueryPart7.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Query1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Query1.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

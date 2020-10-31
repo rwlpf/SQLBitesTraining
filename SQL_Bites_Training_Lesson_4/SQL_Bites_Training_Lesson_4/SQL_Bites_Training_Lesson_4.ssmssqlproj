@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL_Bites_Training_Lesson_4">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="WIN-OPT-077\MSSQLSERVER_2016:CCT\rfrench">
+          <Created>2018-05-14T15:58:19.9574782+01:00</Created>
+          <Type>SQL</Type>
+          <Server>WIN-OPT-077\MSSQLSERVER_2016</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Figure 1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Figure 1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Figure 10 Update with CTE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Figure 10 Update with CTE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Figure 11 Delete using CTE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Figure 11 Delete using CTE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Figure 12 Simple Recursive CTE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Figure 12 Simple Recursive CTE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Figure 12a - Simple Recusive CTE Step By Step.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Figure 12a - Simple Recusive CTE Step By Step.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Figure 13 - [HumanResources].[Employee] .sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Figure 13 - [HumanResources].[Employee] .sql</FullPath>
+        </FileNode>
+        <FileNode Name="Figure 14 - Org Chart - Worked First Level.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Figure 14 - Org Chart - Worked First Level.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Figure 14 - Org Chart.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Figure 14 - Org Chart.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Figure 2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Figure 2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Figure 3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Figure 3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Figure 4 - Avg Min Max Non CTE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Figure 4 - Avg Min Max Non CTE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Figure 5 - Avg Min Max CTE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Figure 5 - Avg Min Max CTE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Figure 6 .sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Figure 6 .sql</FullPath>
+        </FileNode>
+        <FileNode Name="Figure 7.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Figure 7.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Figure 8_ Two sub queries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Figure 8_ Two sub queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Figure 9.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Figure 9.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Figure 910 - Recursive_For_ComponentID_749.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Figure 910 - Recursive_For_ComponentID_749.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Figure 911_.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Figure 911_.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Figure 96 - ListOfBikes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Figure 96 - ListOfBikes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Figure 97 - Level 1 components for 749.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Figure 97 - Level 1 components for 749.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Figure 98  - BOM_Bottom_BracketID_996.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Figure 98  - BOM_Bottom_BracketID_996.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Figure 999  - BB Ball Bearing_3.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Figure 999  - BB Ball Bearing_3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Recursive.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Recursive.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Worked_Example_Recursive_CTE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Worked_Example_Recursive_CTE.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

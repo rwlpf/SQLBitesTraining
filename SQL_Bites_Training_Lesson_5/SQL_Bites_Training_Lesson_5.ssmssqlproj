@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL_Bites_Training_Lesson_5">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="WIN-OPT-077\MSSQLSERVER_2012:CCT\rfrench">
+          <Created>2018-03-01T17:36:42.2551245+00:00</Created>
+          <Type>SQL</Type>
+          <Server>WIN-OPT-077\MSSQLSERVER_2012</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>AdventureWorks2012</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="WIN-OPT-077\MSSQLSERVER_2016:CCT\rfrench">
+          <Created>2018-04-26T11:13:36.6895343+01:00</Created>
+          <Type>SQL</Type>
+          <Server>WIN-OPT-077\MSSQLSERVER_2016</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Figure 1 - List of all the employee's records ordered by [SickLeaveHours] in ascending order.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Figure 1 - List of all the employee's records ordered by [SickLeaveHours] in ascending order.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Figure 2 - Adding a Row Number to the results partition by [OrganizationLevel] and order by [SickLeaveHours].sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Figure 2 - Adding a Row Number to the results partition by [OrganizationLevel] and order by [SickLeaveHours].sql</FullPath>
+        </FileNode>
+        <FileNode Name="Query 3 - Using the RANK() function against the dataset.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Query 3 - Using the RANK() function against the dataset.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Query 4 - Other ranking functions available in Microsoft SQL Server.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Query 4 - Other ranking functions available in Microsoft SQL Server.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Query 5 - Different ways of using SUM() function generates different results.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Query 5 - Different ways of using SUM() function generates different results.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Query 6 - using SUM() windows function shown in the column [PercentageOfTotalOverPartition].sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Query 6 - using SUM() windows function shown in the column [PercentageOfTotalOverPartition].sql</FullPath>
+        </FileNode>
+        <FileNode Name="Query7- Query using Lead() and Lag() functions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Query7- Query using Lead() and Lag() functions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Query8 - Query7- Query using Lead() and Lag() functions Partation By All CustomerIDs.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Query8 - Query7- Query using Lead() and Lag() functions Partation By All CustomerIDs.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Query9 - First and Last Value example.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Query9 - First and Last Value example.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Query9 - First and Last Value example_adjusted.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Query9 - First and Last Value example_adjusted.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL_Bites_Training">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="192.168.2.44:CCT\rfrench">
+          <Created>2018-04-26T12:04:14.9290684+01:00</Created>
+          <Type>SQL</Type>
+          <Server>192.168.2.44</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="WIN-OPT-077\MSSQLSERVER_2016:CCT\rfrench">
+          <Created>2018-05-14T13:25:06.4345802+01:00</Created>
+          <Type>SQL</Type>
+          <Server>WIN-OPT-077\MSSQLSERVER_2016</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Extra_ROLLUP_VS_CUBE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:192.168.2.44:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>192.168.2.44</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Extra_ROLLUP_VS_CUBE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Lesson2_Figure1.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Lesson2_Figure1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Lesson2_Figure10.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Lesson2_Figure10.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Lesson2_Figure11a.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Lesson2_Figure11a.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Lesson2_Figure11b.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Lesson2_Figure11b.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Lesson2_Figure12.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:192.168.2.44:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>192.168.2.44</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Lesson2_Figure12.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Lesson2_Figure13.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:192.168.2.44:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>192.168.2.44</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Lesson2_Figure13.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Lesson2_Figure2.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Lesson2_Figure2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Lesson2_Figure3.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Lesson2_Figure3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Lesson2_Figure4.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Lesson2_Figure4.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Lesson2_Figure5.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Lesson2_Figure5.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Lesson2_Figure6.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Lesson2_Figure6.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Lesson2_Figure7.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Lesson2_Figure7.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Lesson2_Figure8.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Lesson2_Figure8.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Lesson2_Figure9.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-OPT-077\MSSQLSERVER_2016:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-OPT-077\MSSQLSERVER_2016</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Lesson2_Figure9.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
